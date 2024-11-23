@@ -37,7 +37,7 @@ typescript:
   methodArguments: require-security-and-request
   moduleFormat: commonjs
   outputModelSuffix: output
-  packageName: '@lukehagar/plexjs'
+  packageName: '@edc1591/plexjs'
   responseFormat: envelope
   templateVersion: v2
   useIndexModules: true
